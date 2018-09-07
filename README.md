@@ -2,6 +2,7 @@
 
 
 WHAT IS RETENGO!!!
+
 Retengo is a seamless workspace sharing solution, allowing users to rent out their property space using blockchain, directly through the phone without any manual involvement. With the Retengo token poised to become a standardized currency through a high profile network the Retengo platform will offer a peer-to-peer marketplace that makes renting out property such as workspace more convenient, affordable and rewarding. Retengo token is the ERC20 token that aims to become the preferred method to pay for workspace services through the Ethereum Blockchain and to access the ecosystem of services provided by the Retengo platform, The adoption of cryptocurrencies will impact the way we access workspace services in the future and Retengo is poised to play a leading role in this new era of sharing economy
 
 Token Information: 
